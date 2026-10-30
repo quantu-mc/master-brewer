@@ -12,3 +12,6 @@ inc. financial leadership.
 ## Capital Expenditure
 
 ## Risk Management
+### Considerations and Models
+### Supplier Selection
+### Contract Management
