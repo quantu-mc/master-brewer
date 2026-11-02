@@ -82,7 +82,7 @@ Production variances occur through:
 
 Brewing is primarily responsible for efficiency, but can also influence price through ingredient selection, mix via sequencing and changeovers, or volume via brew lengths.
 
-### Accessing Standard Costs
+#### Accessing Standard Costs
 Using SAP, the standard costs of a particular products can be found under the Display Material tile. Enter the material number, select "Costing 2", then Plant 1022, and finally chose the "Current" button.
 
 ## Budgets and Forecasts
