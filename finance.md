@@ -15,6 +15,8 @@ It is important to note that the purchase of a new piece of equipment is not rec
 Shareholder equity is the difference between assets and liabilities. It is made up of a sum of the initial investment by shareholders, plus the cumulative profit of the business, less any dividends paid to shareholders. Shareholder equity in the company increases when the company conducts business in a way that increases assets without increasing liabilities by an equal amount. For example, the sale of beer may increase cash owed by the customer by $100, whilst only decreasing the inventory value by $60.
 
 ### Profit and Loss
+The profit and loss statement shows revenue and expenses over a fixed period of time.
+
 ### Balance Sheet
 ### Cashflow Statement
 ### Departmental Spend
