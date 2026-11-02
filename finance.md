@@ -101,7 +101,26 @@ Brewing is primarily responsible for efficiency, but can also influence price th
 Using SAP, the standard costs of a particular products can be found under the Display Material tile. Enter the material number, select "Costing 2", then Plant 1022, and finally chose the "Current" button.
 
 ## Budgets and Forecasts
-cpl
+- The planning cycle in a company starts with the strategic plan, which sets out the mission, vision, and longer-term objectives over 3+ years.
+- This feeds the annual operating plan, turning the strategic plan into specific goals (or, KPIs) for the following year.
+- Based on these goals, the annual departmental budget can be created. This covers the expected sales and the resources to supply those sales, including working capital, capital expenditure, and manufacturing overheads.
+- These form the basis of the standard costing process.
+
+The budget is the approved plan for a period, acting as a target for allocating resources and assessing performance. A forecast if the latest estimate of the full-year result, combining the actual results so far plus expectations for the rest of the year. It is updated based on current information, such as if sales, costs, or plans change. Both can be compared to prior year under comparable periods, which gives historical context.
+
+Any gap between the budget and forecast should be used to understand what changed (efficiency, price, mix, volume) and if possible, any mitigating responses. As an example, for a brief period this year, sugar was more expensive than malt, so the malt/sugar ratio of our beers was tipped in favour of malt. The forecast reflected the actual mix used so far and the expected mix for the rest of the year, including its cost.
+
+### Types of Budgeting
+#### Incremental Budgeting
+At the end of the year, the brewing manager can start with last year's budget (or actual spend) and add to or subtract from it, according to expected changes in sales, salaries, material costs and utilities prices.
+
+#### Zero Based Budgeting
+Each expense must be justified for the new budget period, including what it supports, how much is needed, and why it should be funded. It can be complicated and time-consuming, requiring more documentation, research, justification and training. However, it can eliminate historical expenses that are unnecessary or outdated. 
+
+#### Activity Based Budgeting
+Spending estimates are calculated from the resources required to undertake certain activities. The cost is a product of the usage per activity, the quantity per activity, and the price per unit of resource. For instance, the cost of cleaning chemical spend would be the chemical usage per cycle (L/cycle), multiplied by the number of cycles (cycles), multiplied by the price ($/L.)
+
+ZBB and ABB can be used together, for instance ZBB can be used to justify the activity and its purpose, then ABB is used to calculate its budget using usage, quantity and price. Or, incremental budgeting can be used for fixed costs, and ABB for variable costs based on expected demand.
 
 ## Capital Expenditure
 
