@@ -61,6 +61,28 @@ inc. financial leadership.
 
 ## Budgets and Forecasts
 
+## Standard Costs
+### Variable/Fixed and Direct/Indirect Costs
+Standard costs are reflected as COGS on the company's P&L. Standard costs can be used in three main ways:
+1. Internal pricing; the cost assigned to the beer as it moves through production, as each stage adds more cost (e.g. yeast, packaging materials, more utilities and labour.)
+2. Stock valuation; calculating the value of inventory on hand.
+3. Assessing performance; by comparing actual costs with the standard costs expected.
+
+Typically, the standard cost of a product in the brewing department is made up of:
+- Material costs, which are often variable, as they change as production volume changes. Raw materials, their standard quantities, and expected yield/losses, all make up the bill of material (BOM) for a product. Since they can be traced to a particular product, they are direct costs.
+- Manufacturing costs, which are often fixed, as they mostly stay the same as production volume changes i.e. my salary is unchanged throughout the year. Hourly wages, utilities and maintenance are collected together and allocated using an agreed driver, which is a complex calculation involving production efficiencies, brewery location, shift structures and equipment age. Since they cannot be traced to a particular product, they are indirect costs.
+
+Some costs are a mixture of both, for instance steam for the brewhouse can be variable (changes with volume) and indirect (can't be allocated to a particular product, instead being averaged over the brew hours.)
+
+### Variances to Standard Costs
+Actual standard costs and variances are performed by the ERP system (e.g. SAP.) Variances are the differences between actual and expected costs. Variances must be investigated against production and procurement data to determine if they are genuine efficiency improvement opportunities, or if they are a result of price changes, volume or mix effects, or inaccurate master data. 
+
+Production variances occur through:
+- Price: the cost of raw materials may change due to seasonality, contracts, exchange rates, freight, surcharges, etc.
+- Efficiency: the process may have used more or less material, labour, time, or energy to produce, prompting an investigation on yield, losses, rework, downtime and flowrates.
+- Mix: the actual combination of products differs from what was planned, changing the average cost, particularly if some products are more or less expensive to produce than others.
+- Volume: although volume can accounted for by scaling the BOM or calculating as cents per litre (cpl), variances can occur if the average cost is higher, for example if the same manufacturing overheads produceded less volume.
+
 ## Capital Expenditure
 
 ## Risk Management
