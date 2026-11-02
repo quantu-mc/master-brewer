@@ -127,7 +127,7 @@ Setting new targets for the budget should come with a plan. If energy costs are 
 ## Capital Expenditure
 Capital expenditure (CapEx) is spending to acquire, replace, or improve a long-term asset. Projects may enable new products, improve safety, reduce costs, replace obsolete equipment, or meet legal requirements. Prioritising projects and deciding which ones to fund, which to defer, and which to cancel, is necessary as the funding required to complete all projects will always exceed the CapEx budget.
 
-### Estimating Retruns
+### Estimating Returns
 #### Return on Investment
 The simplest method is return on investment (ROI) which compares the total cost of the investment with the amount it earned over it’s working life. For instance, if a new $50,000 piece of equipment saves $10,000 in operating costs over a year, for 10 years of it’s working life:
 
@@ -143,7 +143,8 @@ Consider the piece of equipment above. $10,000 saved in one years' time is worth
 #### Internal Rate of Return
 The internal rate of return is the project's implied annual return on its cashflows. It is calculated determining what discount rate sets the project's NPV equal to zero. In this case, it is equal to 15.1%, which exceeds the cost of capital and gives the project a positive financial backing.
 
-### 
+### Project Approval, Execution and Acceptance
+To be covered under [Project Management](master-brewer/project-management.md).
 
 ## Risk Management
 ### Considerations and Models
