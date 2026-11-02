@@ -125,6 +125,20 @@ ZBB and ABB can be used together, for instance ZBB can be used to justify the ac
 Setting new targets for the budget should come with a plan. If energy costs are to be reduced, then start with the actual performance, find the best repeatable performance, and see if the change can be made permanently by considering the route forward, involving people, equipment, funding and other necessary support. In this way, the target will develop and stretch the company, while being reasonable and achieveable.
 
 ## Capital Expenditure
+Capital expenditure (CapEx) is spending to acquire, replace, or improve a long-term asset. Projects may enable new products, improve safety, reduce costs, replace obsolete equipment, or meet legal requirements. Prioritising projects and deciding which ones to fund, which to defer, and which to cancel, is necessary as the funding required to complete all projects will always exceed the CapEx budget.
+
+### Estimating Retruns
+#### Return on Investment
+The simplest method is return on investment (ROI) which compares the total cost of the investment with the amount it earned over it’s working life. For instance, if a new $50,000 machine saves $10,000 in operating costs over a year, for 10 years of it’s working life:
+
+ROI = ($10,000 x 10) / $50,000 = $100,000 / $50,000 = 200%
+
+#### Discounted Cashflow
+This accounts for the time value of money. The key principle here is that cash held today is more valuable than cash earned tomorrow, for two reasons:
+1. Cash held today can be used to earn a return, fund inventory or avoid borrowing costs. This is referred to as opportunity cost.
+2. Cash earned next year is worth less. $100 in next year's money is worth the equivalent of $95.24 today, assuming 5% discount rate.
+
+The discounted cashflow method 
 
 ## Risk Management
 ### Considerations and Models
