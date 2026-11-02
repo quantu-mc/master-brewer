@@ -27,10 +27,25 @@ COGS is centered in Supply Chain and includes all the costs of producing and sto
 3. Shutte, the moving of products to warehouse.
 4. Warehousing, the storing of products before distribution.
 
+#### Return on Capital Employed
+Return on capital employed (ROCE) links the balance sheet and P&L together. It is calculated as the ratio of operating profit to capital employed, as a percentage. Profit comes from the P&L, while capital employed is calculated from the balance sheet, typically as total assets minus short term liabilties. Consider two breweries, each making $10m profit per year. If one does that using $50m worth of inventory (working capital) and equipment (CAPEX) and the other with $100m worth, then the first brewery has a much better (20% vs 10%) ROCE.
+
 ### Cashflow Statement
 The cashflow statement shows the actual movement of cash entering and leaving the business over a fixed period of time. A negative on a cashflow statement is not necessarily a loss. For example, purchase of raw materials (working capital) or equipment (capital expenditure) become assets on the balance sheet.
 
-#### Working Capital Example
+#### Managing Cashflow
+Growth can put pressure on cash, as a growing brewery needs more working capital and capital expenditure. Cash may get tied up in inventory and accounts receivable. The key drivers for increasing cashflow are thus:
+- Financing: such as taking out loans or increasing shareholder equity.
+- Performance: reducing overheads through process efficiency and people productivity improvements.
+- Procurement: negotiating contracts, finding alternative suppliers, or consolidating purchases.
+- Working Capital: optimising inventory, speed up payments from customers, and slow down payments to suppliers.
+- Capital Expenditure: assessing upfront costs against estimated savings in the long-term.
+- Forecasting: investigating discrepancies regularly and taking corrective action early.
+
+Many of these will be covered in the following sections.
+
+### Bringing the Three Statements Together
+#### Working Capital
 The brewery buys 1,000 tonnes of malt worth $700k and uses 600 t (60%, $420k) in the first month.
 
 When the inventory is purchased:
@@ -43,7 +58,7 @@ When the beer is sold:
 - Balance Sheet will show +$600k in accounts receivable, -$420k in inventory, and +$180k in retained earnings, a part of equity.
 - Cashflow Statement will show $0 until the customer pays in the invoice.
 
-#### Capital Expenditure Example
+#### Capital Expenditure
 The brewery buys a new centrifuge valued at $1m, that depreciates by $100k per year.
 
 When the product is purchased:
