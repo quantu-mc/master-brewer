@@ -145,3 +145,22 @@ The internal rate of return is the project's implied annual return on its cashfl
 
 ### Project Approval, Execution and Acceptance
 To be covered under [Project Management](master-brewer/project-management.md).
+
+## Continuous Improvement
+Due to the nature of the beer market, margins are under constant pressure and it is a necessity that production costs are kept as low as possible. The savings from lower production costs can be used to support and grow the commercial side of the business, or be reinvested to drive further savings.
+
+### Key Performance Indicators
+#### Balanced Scorecard
+e.g. AOP including production volume and total spend to give cpl. KPIs include cost (cpl), safety (LTI), quality (complaints), environment (energy and water use) and service (OEE / DIFOT.)
+#### Leading and Lagging Indicators
+e.g. MV / BV RFT, BPQI, micro performance, 13 week haze, 13 week foam, extract waste, concessional releases. These are under 'lead indicators' in PowerBI but are actually mostly lag indicators.
+
+### Financial Leadership
+#### Identifying Gaps
+e.g. eight forms of waste, investigating variances, and determine what brewing can control.
+#### Managing People
+e.g. translating financial results into operating drivers such as extract waste, material usage variance, or energy and water use. Turn findings into actions with owners and due dates.
+#### Measure Performance
+e.g. compare actuals with budget and prior year, validate benefits of projects, ensure safety and quality have not been compromised.
+
+
