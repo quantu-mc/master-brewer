@@ -129,16 +129,21 @@ Capital expenditure (CapEx) is spending to acquire, replace, or improve a long-t
 
 ### Estimating Retruns
 #### Return on Investment
-The simplest method is return on investment (ROI) which compares the total cost of the investment with the amount it earned over it’s working life. For instance, if a new $50,000 machine saves $10,000 in operating costs over a year, for 10 years of it’s working life:
+The simplest method is return on investment (ROI) which compares the total cost of the investment with the amount it earned over it’s working life. For instance, if a new $50,000 piece of equipment saves $10,000 in operating costs over a year, for 10 years of it’s working life:
 
 ROI = ($10,000 x 10) / $50,000 = $100,000 / $50,000 = 200%
 
 #### Discounted Cashflow
-This accounts for the time value of money. The key principle here is that cash held today is more valuable than cash earned tomorrow, for two reasons:
-1. Cash held today can be used to earn a return, fund inventory or avoid borrowing costs. This is referred to as opportunity cost.
-2. Cash earned next year is worth less. $100 in next year's money is worth the equivalent of $95.24 today, assuming 5% discount rate.
+Discounted cashflow accounts for the time value of money. The key principle here is that a dollar today is worth more than a dollar tomorrow, because you can invest today's dollar to earn a return. Therefore, future cash flows must be "discounted" back to what they are worth in today's dollars, called the net present value (NPV.)
 
-The discounted cashflow method 
+Say a company could earn a 5% return, in a year, on money it has today. This is called the assumed cost of capital, the return the company expects or requires from using its money in an investment of similar risk. Then, $100 today would be worth $105 next year. Inversely, $100 earnt next year is worth only $100 / 1.05 = $95.24 today. Essentially, discounted cashflow is about calculating how much money would need to be invested at a particular rate to get the same cashflow.
+
+Consider the piece of equipment above. $10,000 saved in one years' time is worth only $9,524 today, and $10,000 saved in two years' time is worth only $9,070. Repeating and summing for all 10 years, the present value of the savings is $77,217. Subtracting the cost of the equipment gives the net present value of $27,217. This is the value created by the project in today's dollars.
+
+#### Internal Rate of Return
+The internal rate of return is the project's implied annual return on its cashflows. It is calculated determining what discount rate sets the project's NPV equal to zero. In this case, it is equal to 15.1%, which exceeds the cost of capital and gives the project a positive financial backing.
+
+### 
 
 ## Risk Management
 ### Considerations and Models
