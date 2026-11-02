@@ -16,12 +16,16 @@ Shareholder equity is the difference between assets and liabilities. It is made 
 
 ### Profit and Loss
 The profit and loss statement shows revenue and expenses over a fixed period of time. Lines on the P&L show:
-- Total net revenue on goods delivered, after deductions including exise tax and GST. Revenue is recorded when the goods have been delivered, not necessarily when cash is received, as the amount can still exist as accounts receivable.
-- Gross profit, which is the net revenue minus the cost of goods sold (COGS) assigned to the amount of product sold in that period. Any product not sold remain in the balance sheet as assets.
-- Earnings before interest, tax, depreciation, and amortisation (EBITDA), which is the gross profit minus administrative expenses not directly related to the manufacture of goods, including other operating expenses and salaries for functions outside of Supply Chain.
--  Net profit, the final value that exists as shareholder equity for that period, which has had income tax and any interest expenses deducted.
+- Total net revenue on goods delivered, after deductions including discounts and rebates. Revenue is recorded when the goods have been delivered, not necessarily when cash is received, as the amount can still exist as accounts receivable. Excise tax and GST are not factored into revenue, as they are collected on behalf of the government.
+- Gross profit, which is the net revenue minus the cost of goods sold (COGS) only within that period. Any product not sold remains in the balance sheet as assets.
+- Earnings before interest, tax, depreciation, and amortisation (EBITDA), which is the gross profit minus administrative expenses not directly related to the manufacture of goods, including operating expenses and salaries for functions outside of Supply Chain.
+-  Net profit, which is the earnings minus any interest on loans, depreciation of assets, income tax, etc. Some can be kept as retained earnings and some can be paid as shareholder dividends.
 
-COGS is...
+COGS is centered in Supply Chain and includes all the costs of producing and storing a product. It does not include distribution, marketing or sales, as these are captured as operating expenses. It does include:
+1. Direct material costs, including all raw materials and packaging materials.
+2. Fixed manufacturing costs, including production salaries and production expenses, such as maintenance and utilities.
+3. Shutte, the moving of products to warehouse.
+4. Warehousing, the storing of products before distribution.
 
 ### Balance Sheet
 ### Cashflow Statement
