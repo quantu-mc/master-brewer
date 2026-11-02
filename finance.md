@@ -106,7 +106,7 @@ Using SAP, the standard costs of a particular products can be found under the Di
 - Based on these goals, the annual departmental budget can be created. This covers the expected sales and the resources to supply those sales, including working capital, capital expenditure, and manufacturing overheads.
 - These form the basis of the standard costing process.
 
-The budget is the approved plan for a period, acting as a target for allocating resources and assessing performance. A forecast if the latest estimate of the full-year result, combining the actual results so far plus expectations for the rest of the year. It is updated based on current information, such as if sales, costs, or plans change. Both can be compared to prior year under comparable periods, which gives historical context.
+The budget is the approved plan for a period, acting as a target for allocating resources and assessing performance. A forecast is the latest honest estimate of the full-year result, combining the actual results so far plus expectations for the rest of the year. It is updated based on current information, such as if sales, costs, or plans change. Both can be compared to prior year under comparable periods, which gives historical context.
 
 Any gap between the budget and forecast should be used to understand what changed (efficiency, price, mix, volume) and if possible, any mitigating responses. As an example, for a brief period this year, sugar was more expensive than malt, so the malt/sugar ratio of our beers was tipped in favour of malt. The forecast reflected the actual mix used so far and the expected mix for the rest of the year, including its cost.
 
@@ -121,6 +121,8 @@ Each expense must be justified for the new budget period, including what it supp
 Spending estimates are calculated from the resources required to undertake certain activities. The cost is a product of the usage per activity, the quantity per activity, and the price per unit of resource. For instance, the cost of cleaning chemical spend would be the chemical usage per cycle (L/cycle), multiplied by the number of cycles (cycles), multiplied by the price ($/L.)
 
 ZBB and ABB can be used together, for instance ZBB can be used to justify the activity and its purpose, then ABB is used to calculate its budget using usage, quantity and price. Or, incremental budgeting can be used for fixed costs, and ABB for variable costs based on expected demand.
+
+Setting new targets for the budget should come with a plan. If energy costs are to be reduced, then start with the actual performance, find the best repeatable performance, and see if the change can be made permanently by considering the route forward, involving people, equipment, funding and other necessary support. In this way, the target will develop and stretch the company, while being reasonable and achieveable.
 
 ## Capital Expenditure
 
