@@ -145,8 +145,3 @@ The internal rate of return is the project's implied annual return on its cashfl
 
 ### Project Approval, Execution and Acceptance
 To be covered under [Project Management](master-brewer/project-management.md).
-
-## Risk Management
-### Considerations and Models
-### Supplier Selection
-### Contract Management
